@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I started Oregon State University's computer science program in 2023 and am excited to learn all I can!  👋
 
 <!--
 **rountos/rountos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
